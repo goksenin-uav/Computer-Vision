@@ -1,0 +1,1 @@
+# teknofest-uav-2020-goruntu-isleme
